@@ -1,0 +1,2 @@
+# Only needed for the database app
+mysql-connector-python
